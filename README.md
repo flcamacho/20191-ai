@@ -1,6 +1,6 @@
 # Inteligencia Artificial I 2019-1
 
-<img src="/imgs/img_IA.jpg" style="width:700px;">
+<img src="/imgs/img_IA.jpg" style="width:400px;">
 
 _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
                                             
