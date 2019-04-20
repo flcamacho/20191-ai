@@ -1,5 +1,7 @@
 # Inteligencia Artificial I 2019-1
 
+<img src="/imgs/img_IA.jpg" style="width:700px;">
+
 _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
                                             
 La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1KxCUZlXDgyvJzfs6s7EfegMVS1HL_bXq/view?usp=sharing)
