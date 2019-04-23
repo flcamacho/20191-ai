@@ -4,7 +4,7 @@
 
 _Regístrate [aquí](https://forms.gle/DE1TkzdpReve7h8Q8)
                                             
-La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1KxCUZlXDgyvJzfs6s7EfegMVS1HL_bXq/view?usp=sharing)
+La máquina virtual puede descargarse [aquí](https://drive.google.com/file/d/1X3h7U1JTSnKPTVPzVHeflKuOMv0kG3VN/view?usp=sharing)
 
 
 ## Máquina Virtual
