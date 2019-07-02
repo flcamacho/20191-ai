@@ -93,16 +93,16 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W04 May14-May15    4.BAYES              4.BAYES-PSETS
      W05 May21-May22    QUIZPREP             QUIZ                PSETS FIRST DEADLINE    
      W06 May28-May29    5.MLCLASS            6.MLREG            Junio 01 Registro primera calificación
-     W07 Jun04-Jun05    7.MLMETH             8.NAIVE   
-     W08 Jun11-Jun12    8.IMGCLASS           8.DeepL             Vacaciones - (Junio 17- Julio 02)
-     W09 Jul02-Jul03    9.DeepL-PSETS        10.PRE-SUS PROJ  
-     W10 Jul09-Jul10    QUIZPREP             QUIZ                PSETS SECOND DEADLINE                   
-     W11 Jul16-Jul17    13.KMEANS            13.KMEANS                 
-     W12 Jul23-Jul24    14.PLAN              0.PLAN-SETS                         
-     W13 Jul30-Jul31    15.GA                0.GA-PSETS     
-     W14 Ago06-Ago07    14.SA                14.-----            Festivo 07 de Agosto.  	
-     W15 Ago13-Ago14    QUIZPREP             QUIZ        
-     W16 Ago20-Ago21    PROJECT              PROJECT       	     Agosto 23 Finalización de clases    		                
+     W07 Jun04-Jun05    7.MLMETH             8.--   
+     W09 Jul02-Jul03    8.NAIVE              8.IMGCLASS             Vacaciones - (Junio 17- Julio 02)
+     W10 Jul09-Jul10    9.DeepL              10.DeepL  
+     W11 Jul16-Jul17    QUIZPREP             PRE-SUS PROJ        PSETS SECOND DEADLINE QUIZ (sabado 20 Julio)                   
+     W12 Jul23-Jul24    13.KMEANS            13.KMEANS                 
+     W13 Jul30-Jul31    14.PLAN              0.PLAN-SETS                         
+     W14 Ago06-Ago07    15.GA                0.GA-PSETS     
+     W15 Ago13-Ago14    14.SA                14.-----            Festivo 07 de Agosto.  	
+     W16 Ago20-Ago21    QUIZPREP             QUIZ-PROJECT        Quiz (sábado, 24 Agosto)
+     W16 Ago28-Ago29    PROJECT              PROJECT       	     Agosto 23 Finalización de clases    		                
 
 
     Jun01 -        -> Registro primera calificación
