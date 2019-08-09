@@ -101,7 +101,7 @@ La calificación del curso vendrá dada por los siguientes criterios con el mism
      W13 Jul30-Jul31    14.PLAN              0.PLAN-SETS                         
      W14 Ago06-Ago07    15.GA                0.GA-PSETS     
      W15 Ago13-Ago14    14.SA                14.-----            Festivo 07 de Agosto.  	
-     W16 Ago20-Ago21    QUIZPREP             QUIZ-PROJECT        Quiz (sábado, 24 Agosto)
+     W16 Ago20-Ago21    QUIZPREP             QUIZ-PROJECT        Quiz (sábado, 17 Agosto)
      W16 Ago28-Ago29    PROJECT              PROJECT       	     Agosto 23 Finalización de clases    		                
 
 
