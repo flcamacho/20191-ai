@@ -14,20 +14,23 @@ e---
 6. [ArtSource](#proy6)
 7. []
 8. [Extreme climate even detection](#proy8)
+9. [la línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas](#proy9)
 ---
 
 ## CheckYourZone: Un módelo predictivo de zonas con mayores delitos en Bucaramanga <a name="proy1"></a>
 
 **Autores: a**
 
-<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+<img src="https://github.com/omarsan1/ProyectoInteligencia/blob/master/BannerProyect.jpeg" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo: Predecir falsas alarmas y prioridades en las llamadas según los datos proporcionados en las llamadas a la línea 123.**  
 
-- Dataset: 
-- Modelo: 
+- Dataset: Más de 113000 registros de llamadas con 8 características como localidad, edad, género, tipo de incidente, entre otras. Tomado de Datos Abiertos Colombia (datos.gov.co)[link](https://www.datos.gov.co/dataset/Llamadas-de-Urgencias-y-Emergencias-que-ingresan-a/r6vd-czd2)
+- Modelo: Clasificadores Gaussian, Decision Tree, Random Forest, KNN, Deep neuronal network.
 
-[(code)](); [(video)](); [(+info)]()
+
+
+[(code)](https://github.com/omarsan1/ProyectoInteligencia/); [(video)](https://drive.google.com/file/d/1LFs7JoNDDfAilfKqjJNQq8L1DZ3ikENI/view); [(+info)](https://github.com/omarsan1/ProyectoInteligencia/blob/master/An%C3%A1lisis%20de%20llamadas%20a%20la%20l%C3%ADnea%20123.pptx)
 
 ---
 
@@ -139,3 +142,37 @@ e---
 - Modelo: 
 
 [(code)](https://github.com/mdlizarazo/IA-Project); [(video)](); [(+info)]()
+
+---
+
+## La línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas <a name="proy9"></a>
+
+**Autores: **
+
+<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+
+**Objetivo:**  
+
+- Dataset: 
+- Modelo: 
+
+[(code)](); [(video)](); [(+info)]()
+
+---
+
+---
+
+## Proyecto <a name="proy7"></a>
+
+**Autores: a**
+
+<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+
+**Objetivo:**  
+
+- Dataset: 
+- Modelo: 
+
+[(code)](); [(video)](); [(+info)]()
+
+---
