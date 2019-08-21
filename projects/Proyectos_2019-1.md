@@ -15,6 +15,7 @@ e---
 7. [Inteligencia artificial para el uso agricola](#proy7)
 8. [Extreme climate even detection](#proy8)
 9. [la línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas](#proy9)
+10.[Probabilidad de aceptación de una tarjeta de credito](#proy10)
 ---
 
 ## CheckYourZone: Un módelo predictivo de zonas con mayores delitos en Bucaramanga <a name="proy1"></a>
@@ -162,6 +163,21 @@ e---
 
 [(code)](https://github.com/omarsan1/ProyectoInteligencia/); [(video)](https://drive.google.com/file/d/1LFs7JoNDDfAilfKqjJNQq8L1DZ3ikENI/view); [(+info)](https://github.com/omarsan1/ProyectoInteligencia/blob/master/An%C3%A1lisis%20de%20llamadas%20a%20la%20l%C3%ADnea%20123.pptx)
 
+
+---
+
+## Probabilidad de aceptación de una tarjeta de credito <a name="proy10"></a>
+
+**Autores:  Javier Vargas - Yann Castellanos**
+
+<img src="https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/banner/banner_proyecto.png" style="width:700px;">
+
+**Objetivo:**  
+
+- Dataset: 
+- Modelo: 
+
+[(code)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/tree/master); [(video)](https://drive.google.com/file/d/1GYruqEKnYggGm_yLMWpjWhPSqfc5CKQZ/view); [(+info)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/Presentaci%C3%B3n.pdf)
 
 
 ---
