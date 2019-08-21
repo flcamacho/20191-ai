@@ -37,16 +37,16 @@ e---
 
 ## Detección de *Hate speech* en *Twitter* <a name="proy2"></a>
 
-**Autores: Valentina Goyeneche, XX**
+**Autores: Valentina Goyeneche, Liceth Rozo**
 
-<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+<img src="https://github.com/vgoyenechec/Hatespeech-en-twitter/blob/master/imgs/banner.png" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo:Clasificar tweets en ofensivo, hatespeech o ninguno, para filtrar el contenido que promueva el odio.**  
 
-- Dataset: 
-- Modelo: 
+- Dataset: Un dataset internacional con 24783 tweets, 148.609 "características" y un dataset colombiano con 16044, 143023 características
+- Modelo: RandomForest,, SVC, MultinomialNB, OneVsRest, CrossValidation, Kmeans, Red Neuronal.
 
-[(code)](); [(video)](); [(+info)]()
+[(code)](https://github.com/vgoyenechec/Hatespeech-en-twitter/); [(video)](https://www.youtube.com/watch?v=lDmo4KoRURw&feature=youtu.be); [(+info)](https://github.com/vgoyenechec/Hatespeech-en-twitter/blob/master/presentation/TwitterHSBalanceado.html)
 
 ---
 
