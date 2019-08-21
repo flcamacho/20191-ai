@@ -88,11 +88,11 @@
 
 ---
 
-## Proyecto <VoiceHelp="proy5"></a>
+## VoiceHelp <a name="proy5"></a>
 
 **Autores: Diana Torres, Luis Jimenez, Maria Aparicio**
 
-<img src="https://github.com/sofiat99/VoiceHelp/blob/master/banner1.png" style="width:900px;">
+<img src="https://github.com/sofiat99/VoiceHelp/blob/master/banner1.png" style="width:1200px;">
 
 **Objetivo:  Ayudar a las personas con problemas auditivos y personas interesadas en aprender español.**  
 
