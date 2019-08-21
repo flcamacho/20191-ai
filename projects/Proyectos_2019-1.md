@@ -1,4 +1,4 @@
-e---
+---
 # Proyectos 2019-1. Inteligencia Artificial. 
 
 ## Prof: Fabio Martínez, Ph.D
@@ -16,6 +16,8 @@ e---
 8. [Extreme climate even detection](#proy8)
 9. [la línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas](#proy9)
 10.[Probabilidad de aceptación de una tarjeta de credito](#proy10)
+11.[Analisis de la tasa de suicidios a nivel mundial](#proy11)
+12.[Grabación de voz a partir de grabaciones con sonido ambiental](#proy12)
 ---
 
 ## CheckYourZone: Un módelo predictivo de zonas con mayores delitos en Bucaramanga <a name="proy1"></a>
@@ -106,14 +108,14 @@ e---
 
 **Autores: Juan David Niño, Maria Fernanda Navas, Juan Pablo Moreno **
 
-<img src="https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
+<img src=" https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo: ArtSource es un proyecto de inteligencia artificial que busca clasificar las pinturas de arte según su corriente artística.**  
 
 - Dataset: 79000 imagenes de arte, 27 estilos artísticos 
-- Modelo: BoW, CNN, transferLearning
+- Modelo: Redes convolucionales, Transfer learning 
 
-[(code)](https://github.com/fhum/ArtSource); [(video)]( https://youtu.be/1LOi7YGIMLA); [(+info)](https://github.com/fhum/ArtSource/blob/master/presentation.pdf)
+[(code)](https://github.com/fhum/ArtSource); [(video)]( https://youtu.be/1LOi7YGIMLA); [(+info)]( https://github.com/fhum/ArtSource/blob/master/presentation.pdf)
 
 ---
 
@@ -179,6 +181,38 @@ e---
 
 [(code)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/tree/master); [(video)](https://drive.google.com/file/d/1GYruqEKnYggGm_yLMWpjWhPSqfc5CKQZ/view); [(+info)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/Presentaci%C3%B3n.pdf)
 
+---
+
+## Analisis de la tasa de suicidios a nivel mundial <a name="proy11"></a>
+
+**Autores: JORGE ANDRES MOGOTOCORO,JHEYSON ARLEY JAIMES, ANDRES RICARDO HERNANDEZ**
+
+
+
+<img src=" https://github.com/Jamf05/20191-ai-class-project/blob/master/banner.jpeg" style="width:700px;">
+
+**Objetivo:Encontrar señales relacionadas con el aumento de las tasas de suicidio entre las diferentes cohortes a nivel mundial, en todo el espectro socioeconómico para ademas generar las mejores condiciones de un pais para minimizar su tasa de suicidios.**  
+
+- Dataset: 27820 registros, 12 caracteristicas
+- Modelo:  Algoritmos geneticos,  RandomForestRegressor,  DecisionTreeRegressor, LinearRegression, SVR
+
+[(code)](https://github.com/Jamf05/20191-ai-class-project); [(video)](https://www.youtube.com/watch?v=gn1uE__3yn8&feature=youtu.be); [(+info)]( https://github.com/Jamf05/20191-ai-class-project/blob/master/Analisis%20de%20la%20tasa%20de%20suicidios%20a%20nivel%20mundial.pptx)
+
+---
+
+## Clasificación de voz a partir de grabaciones con sonido ambiental <a name="proy12"></a>
+
+**Autores: Victor Mantilla**
+
+<img src="https://drive.google.com/drive/folders/1Ge8HnlHUo6oxo8fj4kvgJs9J2kmAGvx2" style="width:700px;">
+
+**Objetivo:Predecir los momentos en que una o varias personas están hablando en una grabación con sonido ambiental.**  
+
+- Dataset: 17000 muestras, cada una con una imagen de 513 de alto x 25 de ancho (pixeles)
+- Modelo:  Deep learning
+
+**NO GITHUB**
+[(code)](https://drive.google.com/drive/folders/1Ge8HnlHUo6oxo8fj4kvgJs9J2kmAGvx2); [(video)](); [(+info)]()
 
 ---
 
