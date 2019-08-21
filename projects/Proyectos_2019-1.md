@@ -12,25 +12,26 @@ e---
 4. [Análisis de suicidios a nivel mundial y nacional](#proy4)
 5. [VoiceHelp](#proy5)
 6. [ArtSource](#proy6)
-7. []
+7. [Inteligencia artificial para el uso agricola](#proy7)
 8. [Extreme climate even detection](#proy8)
 9. [la línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas](#proy9)
 ---
 
 ## CheckYourZone: Un módelo predictivo de zonas con mayores delitos en Bucaramanga <a name="proy1"></a>
 
-**Autores: a**
-
-<img src="https://github.com/omarsan1/ProyectoInteligencia/blob/master/BannerProyect.jpeg" style="width:700px;">
-
-**Objetivo: Predecir falsas alarmas y prioridades en las llamadas según los datos proporcionados en las llamadas a la línea 123.**  
-
-- Dataset: Más de 113000 registros de llamadas con 8 características como localidad, edad, género, tipo de incidente, entre otras. Tomado de Datos Abiertos Colombia (datos.gov.co)[link](https://www.datos.gov.co/dataset/Llamadas-de-Urgencias-y-Emergencias-que-ingresan-a/r6vd-czd2)
-- Modelo: Clasificadores Gaussian, Decision Tree, Random Forest, KNN, Deep neuronal network.
+**Autores: Oscar Esneyder Sinuco, Juan José Arango, Jorge Perea**
 
 
 
-[(code)](https://github.com/omarsan1/ProyectoInteligencia/); [(video)](https://drive.google.com/file/d/1LFs7JoNDDfAilfKqjJNQq8L1DZ3ikENI/view); [(+info)](https://github.com/omarsan1/ProyectoInteligencia/blob/master/An%C3%A1lisis%20de%20llamadas%20a%20la%20l%C3%ADnea%20123.pptx)
+<img src="/sources/check_banner.jpg" style="width:700px;">
+
+**Objetivo: Construir un modelo predictivo para los delitos del municipio de Bucaramanga.**  
+
+- Dataset: Cerca de 100k registros de denuncias desde el año 2009 hasta 2019 (Marzo) y 21 caracteristicas, entre las cuales están dia, mes, lalitud, longitud.
+- Modelo: egresores basados en redes neuronales y Arboles de decisión
+
+
+[(code)](https://gitlab.com/oscarsinuco/inteligencia); [(video)](https://drive.google.com/file/d/1mhFKXVev4RSSd4xfnBrXA47BfIj7DyzW/view); [(+info)](/sources/CHECK_YOUR_ZONE.pptx)
 
 ---
 
@@ -88,14 +89,14 @@ e---
 
 **Autores: Diana Torres, Luis Jimenez, Maria Aparicio**
 
-<img src="https://github.com/sofiat99/VoiceHelp/blob/master/banner1.png" style="width:700px;">
+<img src="https://github.com/sofiat99/VoiceHelp/blob/master/banner1.png" style="width:900px;">
 
-**Objetivo: Traducir automaticamente de audio a texto un conjunto de palabras. **  
+**Objetivo:  Ayudar a las personas con problemas auditivos y personas interesadas en aprender español.**  
 
-- Dataset: 48556 audios de 40 clases en total 
-- Modelo: 
+- Dataset: 40 clases,48556 datos, cada uno con 100 características (mfcc)
+- Modelo: GaussianNB, DecisionTreeClassifier, RandomForestClassifier, KNeighborsClassifier, VotingClassifier,SGDClassifier, Birch,DBScan,KMeans
 
-[(code)](https://github.com/sofiat99/VoiceHelp); [(video)](); [(+info)](https://github.com/sofiat99/VoiceHelp/blob/master/Voichelp.pdf)
+[(code)](https://github.com/sofiat99/VoiceHelp); [(video)](https://www.youtube.com/watch?v=ogIixp8eV8U&rel=0); [(+info)](https://github.com/sofiat99/VoiceHelp/blob/master/Voichelp.pdf)
 
 
 ---
@@ -115,18 +116,18 @@ e---
 
 ---
 
-## Proyecto <a name="proy7"></a>
+## Inteligencia artificial para el uso agricola <a name="proy7"></a>
 
-**Autores: a**
+**Autores: Cristian Andrés Picón, Andrea Juliana Villalba**
 
-<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+<img src="https://github.com/capr99/AI_Agricultura/blob/master/images/BannerAI.png" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo:Obtener una estimación de la producción de un cultivo en determinada zona para ayudar a los agricultores Colombianos.**  
 
-- Dataset: 
-- Modelo: 
+- Dataset: Fueron utilizados 6 datasets con datos superiores a los 3000 en varios casos: ['Cafe', 'Maiz', 'Tomate', 'Soya', 'Cacao', 'Aguacate']
+- Modelo: Decision Tree Regressor y Random Forest Regressor para la estimación de la producción, Kmeans y DBScan para el analisis de los datos
 
-[(code)](); [(video)](); [(+info)]()
+[(code)](https://github.com/capr99/AI_Agricultura); [(video)](https://www.youtube.com/embed/rraRTj8XcPE); [(+info)](https://github.com/capr99/AI_Agricultura/blob/master/Pv2Slides.ipynb)
 
 ---
 
@@ -136,12 +137,13 @@ e---
 
 <img src="https://github.com/mdlizarazo/IA-Project/blob/master/banner.png" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo:Detectar eventos climaticos extremos.**  
 
-- Dataset: 
-- Modelo: 
+- Dataset:  para cada variable existen 3 dimensiones: lat: 336, lon: 276, time: 690). Se utilizaron 2 variables, y al final se extrajeron 4 features.
 
-[(code)](https://github.com/mdlizarazo/IA-Project); [(video)](); [(+info)]()
+- Modelo: Algoritmo KDE, Logistic Regressor, Estandarizacion, cross validation.
+
+[(code)](https://github.com/mdlizarazo/IA-Project); [(video)](/sources/2162094/VideoProyectoIA.wmv); [(+info)](/sources/2162094/DetecciondeEventosSlide.ppt)
 
 ---
 
@@ -149,16 +151,18 @@ e---
 
 **Autores: **
 
-<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+<img src="https://github.com/omarsan1/ProyectoInteligencia/blob/master/BannerProyect.jpeg" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo: Predecir falsas alarmas y prioridades en las llamadas según los datos proporcionados en las llamadas a la línea 123.**  
 
-- Dataset: 
-- Modelo: 
+- Dataset: Más de 113000 registros de llamadas con 8 características como localidad, edad, género, tipo de incidente, entre otras. Tomado de Datos Abiertos Colombia (datos.gov.co)[link](https://www.datos.gov.co/dataset/Llamadas-de-Urgencias-y-Emergencias-que-ingresan-a/r6vd-czd2)
+- Modelo: Clasificadores Gaussian, Decision Tree, Random Forest, KNN, Deep neuronal network.
 
-[(code)](); [(video)](); [(+info)]()
 
----
+
+[(code)](https://github.com/omarsan1/ProyectoInteligencia/); [(video)](https://drive.google.com/file/d/1LFs7JoNDDfAilfKqjJNQq8L1DZ3ikENI/view); [(+info)](https://github.com/omarsan1/ProyectoInteligencia/blob/master/An%C3%A1lisis%20de%20llamadas%20a%20la%20l%C3%ADnea%20123.pptx)
+
+
 
 ---
 
