@@ -153,13 +153,16 @@
 
 ## La línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas <a name="proy9"></a>
 
-**Autores: **
+**Autores: Andrés Felipe Gómez, Omar Sánchez**
+
+
 
 <img src="https://github.com/omarsan1/ProyectoInteligencia/blob/master/BannerProyect.jpeg" style="width:700px;">
 
 **Objetivo: Predecir falsas alarmas y prioridades en las llamadas según los datos proporcionados en las llamadas a la línea 123.**  
 
-- Dataset: Más de 113000 registros de llamadas con 8 características como localidad, edad, género, tipo de incidente, entre otras. Tomado de Datos Abiertos Colombia (datos.gov.co)[link](https://www.datos.gov.co/dataset/Llamadas-de-Urgencias-y-Emergencias-que-ingresan-a/r6vd-czd2)
+- Dataset: Más de 113000 registros de llamadas con 8 características como localidad, edad, género, tipo de incidente, entre otras. Tomado de Datos Abiertos Colombia (datos.gov.co) 
+[link](https://www.datos.gov.co/dataset/Llamadas-de-Urgencias-y-Emergencias-que-ingresan-a/r6vd-czd2)
 - Modelo: Clasificadores Gaussian, Decision Tree, Random Forest, KNN, Deep neuronal network.
 
 
@@ -175,10 +178,10 @@
 
 <img src="https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/banner/banner_proyecto.png" style="width:700px;">
 
-**Objetivo:**  
+**Objetivo: Predecir si la solicitud de una persona para una tarjeta de crédito sería aprobada o rechazada, dada una información acerca del solicitante**  
 
-- Dataset: 
-- Modelo: 
+- Dataset: [Credit Approval Data Set ](http://archive.ics.uci.edu/ml/datasets/credit+approval)
+- Modelo: Regresion lineal, random forest, red neuronal
 
 [(code)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/tree/master); [(video)](https://drive.google.com/file/d/1GYruqEKnYggGm_yLMWpjWhPSqfc5CKQZ/view); [(+info)](https://github.com/javartri/prediccion-de-aceptacion-de-una-solicitud-de-tarjeta-de-credito/blob/master/Presentaci%C3%B3n.pdf)
 
@@ -189,8 +192,7 @@
 **Autores: JORGE ANDRES MOGOTOCORO,JHEYSON ARLEY JAIMES, ANDRES RICARDO HERNANDEZ**
 
 
-
-<img src=" https://github.com/Jamf05/20191-ai-class-project/blob/master/banner.jpeg" style="width:700px;">
+<img src="https://github.com/Jamf05/20191-ai-class-project/blob/master/banner.jpeg" style="width:700px;">
 
 **Objetivo:Encontrar señales relacionadas con el aumento de las tasas de suicidio entre las diferentes cohortes a nivel mundial, en todo el espectro socioeconómico para ademas generar las mejores condiciones de un pais para minimizar su tasa de suicidios.**  
 
