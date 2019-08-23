@@ -27,15 +27,15 @@
 
 
 
-<img src="sources/check_banner.jpg" style="width:700px;">
+<img src="/sources/check_banner.jpg" style="width:700px;">
 
 **Objetivo: Construir un modelo predictivo para los delitos del municipio de Bucaramanga.**  
 
 - Dataset: Cerca de 100k registros de denuncias desde el año 2009 hasta 2019 (Marzo) y 21 caracteristicas, entre las cuales están dia, mes, lalitud, longitud.
-- Modelo: Regresores basados en redes neuronales y Arboles de decisión
+- Modelo: egresores basados en redes neuronales y Arboles de decisión
 
 
-[(code)](https://gitlab.com/oscarsinuco/inteligencia) [(video)](https://drive.google.com/open?id=1iuk7cWd8bC9FKuGxIfVF9Cf34_Mz79aN) [(+info)](/sources/CHECK_YOUR_ZONE.pptx)
+[(code)](https://gitlab.com/oscarsinuco/inteligencia); [(video)](https://drive.google.com/file/d/1mhFKXVev4RSSd4xfnBrXA47BfIj7DyzW/view); [(+info)](/sources/CHECK_YOUR_ZONE.pptx)
 
 ---
 
@@ -214,5 +214,20 @@
 
 **NO GITHUB**
 [(code)](https://drive.google.com/drive/folders/1Ge8HnlHUo6oxo8fj4kvgJs9J2kmAGvx2); [(video)](); [(+info)]()
+
+---
+
+## Proyecto <a name="proy7"></a>
+
+**Autores: a**
+
+<img src="https://i.imgur.com/ueLN6rk.jpg" style="width:700px;">
+
+**Objetivo:**  
+
+- Dataset: 
+- Modelo: 
+
+[(code)](); [(video)](); [(+info)]()
 
 ---
