@@ -207,7 +207,7 @@
 
 **Autores: Victor Mantilla**
 
-<img src="https://drive.google.com/drive/folders/1Ge8HnlHUo6oxo8fj4kvgJs9J2kmAGvx2" style="width:700px;">
+<img src="sources/Banner.png" style="width:700px;">
 
 **Objetivo:Predecir los momentos en que una o varias personas están hablando en una grabación con sonido ambiental.**  
 
@@ -215,6 +215,6 @@
 - Modelo:  Deep learning
 
 **NO GITHUB**
-[(code)](https://drive.google.com/drive/folders/1Ge8HnlHUo6oxo8fj4kvgJs9J2kmAGvx2); [(video)](); [(+info)]()
+[(code)](sources/Proyecto.ipynb); [(video)](sources/Video.mp4); [(+info)](sources/Presentación.pdf)
 
 ---
