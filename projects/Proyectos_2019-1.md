@@ -50,7 +50,7 @@
 - Dataset: Un dataset internacional con 24783 tweets, 148.609 "características" y un dataset colombiano con 16044, 143023 características
 - Modelo: RandomForest,, SVC, MultinomialNB, OneVsRest, CrossValidation, Kmeans, Red Neuronal.
 
-[(code)](https://github.com/vgoyenechec/Hatespeech-en-twitter/); [(video)](https://www.youtube.com/watch?v=lDmo4KoRURw&feature=youtu.be); [(+info)](https://github.com/vgoyenechec/Hatespeech-en-twitter/blob/master/presentation/TwitterHSBalanceado.html)
+[(code)](https://github.com/vgoyenechec/Hatespeech-en-twitter/); [(video)](https://www.youtube.com/watch?v=S7qOzw1CTnw&t=); [(+info)](https://github.com/vgoyenechec/Hatespeech-en-twitter/blob/master/presentation/TwitterHSBalanceado.html)
 
 ---
 
@@ -107,9 +107,9 @@
 
 ## ArtSource <a name="proy6"></a>
 
-**Autores: Juan David Niño, Maria Fernanda Navas, Juan Pablo Moreno **
+**Autores: Juan David Niño, Maria Fernanda Navas, Juan Pablo Moreno**
 
-<img src=" https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
+<img src="https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
 
 **Objetivo: ArtSource es un proyecto de inteligencia artificial que busca clasificar las pinturas de arte según su corriente artística.**  
 
