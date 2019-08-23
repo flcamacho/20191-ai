@@ -15,9 +15,10 @@
 7. [Inteligencia artificial para el uso agricola](#proy7)
 8. [Extreme climate even detection](#proy8)
 9. [la línea 123 en Bogotá:Predicción de prioridades y prevención de falsas alarmas](#proy9)
-10.[Probabilidad de aceptación de una tarjeta de credito](#proy10)
-11.[Analisis de la tasa de suicidios a nivel mundial](#proy11)
-12.[Grabación de voz a partir de grabaciones con sonido ambiental](#proy12)
+10. [Probabilidad de aceptación de una tarjeta de credito](#proy10)
+11. [Analisis de la tasa de suicidios a nivel mundial](#proy11)
+12. [Grabación de voz a partir de grabaciones con sonido ambiental](#proy12)
+
 ---
 
 ## CheckYourZone: Un módelo predictivo de zonas con mayores delitos en Bucaramanga <a name="proy1"></a>
