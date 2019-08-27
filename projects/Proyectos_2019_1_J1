@@ -1,0 +1,119 @@
+---
+# Proyectos 2019-1. Inteligencia Artificial. 
+
+## Prof: Francy Camacho, Ms.C
+
+---
+
+# Lista de Proyectos
+1. [El arte más allá de lo humano](#proy1)
+2. [Estimador de Popularidad de Apps](#proy2)
+3. [Reconocimiento de placas](#proy3)
+4. [Accidentes de tránsito](#proy4)
+5. [Clasificador para la detección de cáncer de seno](#proy5)
+6. [Genetic Algorithm for Vehicle Routing Problem with Fuzzy Demand](#proy6)
+
+
+---
+
+## El arte más allá de lo humano <a name="proy1"></a>
+
+**Autores: Luis Gerardo Castellanos Vergaño, Andrés Camilo Hernández Arias, Ángel Fabian Gómez Estupiñan**
+
+
+
+<img src="https://github.com/Ango1415/El-arte-mas-alla-del-humano/blob/master/Baner.jpg" style="width:700px;">
+
+**Objetivo: Facilitar el proceso de composición musical con un algoritmo que genere composiciones de acuerdo a un ritmo musical en forma de datos de entrenamiento.**  
+
+- Dataset: Canciones en formato Midis.
+- Modelo: Redes Neuronales Recurrentes (RNN)
+- Librerias: Magenta, Transfer learning 
+
+
+
+[(code)](https://github.com/Ango1415/El-arte-mas-alla-del-humano/blob/master/) [(video)](source/El arte mas alla del humano.wmv) [(+info)](https://github.com/Ango1415/El-arte-mas-alla-del-humano/blob/master/EL%20ARTE%20M%C3%81S%20ALL%C3%81%20DEL%20HUMANO.pdf)
+
+---
+
+## Estimador de Popularidad de Apps <a name="proy2"></a>
+
+**Autores: Oscar Andres Corzo, Nelson Amaris, Juan Ricardo Albarracin**
+
+<img src="https://github.com/oscancor117/precalificador_apps" style="width:700px;">
+
+**Objetivo:Proyecto enfocado al estudio y obtencion de las caracteristicas mas relevantes que influyen en la popularidad de una aplicacion.**  
+
+- Dataset: Contiene 10841 muestras con 13 características.
+- Modelo: DecisionTree, RandomForest, SVM.
+
+[(code)](https://github.com/oscancor117/precalificador_apps/blob/master/notebook/proyecto.ipynb); [(video)](https://drive.google.com/file/d/1qLRcfb7WCVB-DGR7pfwNipqhU8P88dOT/view); [(+info)]()
+
+---
+
+## Reconocimiento de placas <a name="proy3"></a>
+
+**Autores: Esteban Niño, Andrea Morales, Junior Alejandro, Alvaro Carrizales**
+
+<img src="https://user-images.githubusercontent.com/53789159/63558283-f65e4580-c511-11e9-832a-e88a195c694e.png" style="width:700px;">
+
+**Objetivo:**   Reconocimiento y clasificación de placas de automóviles utilizando inteligencia artificial como base para un sistema de parqueo con reconocimiento automático
+
+- Dataset: Cerca de 60 placas
+- Modelo:  GaussianNB.
+- Librerias: cv2, Folium (Mapas), LabelEncoder (mapeo de datos) y StandardScaler (normalización de X) de Sklearn
+
+
+[(code)](https://github.com/AlvaroCarrizales/Proyecto_inteligencia_artificial/blob/master/ProyectoFinal.ipynb); [(video)](https://www.youtube.com/watch?v=NiHFgIj20lo&feature=youtu.be); [(+info)](https://github.com/AlvaroCarrizales/Proyecto_inteligencia_artificial/blob/master/AI.pdf)
+
+---
+
+## Accidentes de Tránsito en Bucaramanga <a name="proy4"></a>
+
+**Autores: Daniela Quintero, Martha Eliana Arenas, Carlos Daniel Barrera**
+
+
+<img src="https://user-images.githubusercontent.com/54248145/63318381-e9581100-c2db-11e9-8eea-d098327126ad.jpeg" style="width:700px;">
+
+**Objetivo:**  Predecir el tipo de gravedad de un accidente según el agrupamiento de características (tipo de vehículo involucrado en el accidente). 
+
+
+- [Dataset](https://www.datos.gov.co/Transporte/Accidentes-de-Transito-2017/7cci-nqqb):  
+- Modelo:  Algoritmo no supervisado: Kmeans
+
+[(code)](https://github.com/dedika/Accidentes/blob/master/PROYECTO_IA.ipynb); [(video)](https://youtu.be/BzZl2ePhfs0); [(+info)](https://github.com/dedika/Accidentes/blob/master/proyecto%20IA%20(1).pdf)
+
+
+---
+
+## Clasificador para la detección de cáncer de seno <a name="proy5"></a>
+
+**Autores: Andrea Fabiana Villamizar Ruiz, Anngy Nathalia Gómez Avila, Maria Fernanda Vera Negrón**
+
+<img src="https://github.com/nathaliag30/Detector_Cancer_De_Seno/blob/master/Notebook/banner.JPG" style="width:700px;">
+
+**Objetivo:  Ayudar a las personas con problemas auditivos y personas interesadas en aprender español.**  
+
+- Dataset: 2 clases,569 datos, cada uno con 32 características 
+- Modelo: LogisticRegression, K-NN, SVM, Deep Learning
+
+[(code)](https://github.com/nathaliag30/Detector_Cancer_De_Seno/blob/master/Notebook/detectorfinal.ipynb); [(video)](https://drive.google.com/file/d/1jUk_VxL4p2XUD3uskGgF69QvfJRjN4Jv/view?usp=sharing); [(+info)](https://prezi.com/view/tpOQnBqryMzo4V19QI0Y/)
+
+
+---
+
+## Genetic Algorithm for Vehicle Routing Problem with Fuzzy Demand <a name="proy6"></a>
+
+**Autores: Javier Alexi Chacón Suárez, Yeison Argemiro Valencia**
+
+<img src="https://github.com/fhum/ArtSource/blob/master/logo.png" style="width:700px;">
+
+**Objetivo: ArtSource es un proyecto de inteligencia artificial que busca clasificar las pinturas de arte según su corriente artística.**  
+
+- Dataset: 50 instancias
+- Modelo: Algoritmos genéticos
+
+[(code)](https://github.com/javierchacon262/Genetic-Algorithm-for-Vehicle-Routing-Problem-with-Fuzzy-Demand-Python/blob/master/notebook_Proyecto_inteligencia.ipynb); [(video)]( https://github.com/javierchacon262/Genetic-Algorithm-for-Vehicle-Routing-Problem-with-Fuzzy-Demand-Python/blob/master/video_proyecto_AI%20(2).mp4); [(+info)]( https://github.com/javierchacon262/Genetic-Algorithm-for-Vehicle-Routing-Problem-with-Fuzzy-Demand-Python/blob/master/Presentaci%C3%B3n_Proyecto_vehicle_routing.pdf)
+
+
+---
